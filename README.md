@@ -4,7 +4,6 @@
 
 
 
-package com.nit.lab36;
 
 //Employee.java
 class Employee {
